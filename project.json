@@ -1,0 +1,8 @@
+{
+  "name": "apex-sample-go",
+  "description": "this is golang",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::813910838931:role/apex-sample-go_lambda_function",
+  "environment": {}
+}
